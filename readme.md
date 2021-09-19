@@ -1,4 +1,4 @@
-# Data intelligence specialiation - Final work
+# Data intelligence specialization - Final work
 
 ## Objective
 
