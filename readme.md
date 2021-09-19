@@ -1,4 +1,4 @@
-# Time series final work
+# Data intelligence specialiation - Final work
 
 ## Objective
 
@@ -10,19 +10,19 @@ Please, select a folder of your interest and download this repository to it. Rem
 
 https://docs.anaconda.com/anaconda/install/index.html
 
-Once you have downloaded this repository, go inside the `time-series-final-work` folder and execute the following command to create an ad-hoc environment to work:
+Once you have downloaded this repository, go inside the `data-intelligence-specialization-final-work` folder and execute the following command to create an ad-hoc environment to work:
 
-`conda env create -f environment.yml --prefix ./time-series-final-work-env`
+`conda env create -f environment.yml --prefix ./data-intelligence-specialization-final-work-env`
 
 After running this command, you will see a message saying that, in order to activate this new environment, you should execute  
 
-`conda activate full/path/to/time-series-final-work-env`
+`conda activate full/path/to/data-intelligence-specialization-final-work-env`
 
 Please, do as requested.  
 
 Finally, in order to be able to access this environment from within a Jupyter Lab Session execute the following command,
 
-`python -m ipykernel install --user --name time-series-final-work-env --display-name="time-series-final-work-ker"`
+`python -m ipykernel install --user --name data-intelligence-specialization-final-work-env --display-name="data-intelligence-specialization-final-work-ker"`
 
 followed by 
 
