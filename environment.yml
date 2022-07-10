@@ -1,0 +1,23 @@
+name: time-series-final-work-env
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+dependencies:
+  - python
+  - ipykernel
+  - jupyterlab
+  - openpyxl
+  - pandas
+  - ciso8601
+  - rx
+  - matplotlib
+  - numpy
+  - statsmodels
+  - pmdarima
+  - pytorch
+  - keras
+  - alpha_vantage
+  - pip
+  - pip:
+    - influxdb-client
