@@ -7,17 +7,13 @@ dependencies:
   - python
   - ipykernel
   - jupyterlab
-  - openpyxl
   - pandas
-  - ciso8601
-  - rx
+  - scikit-learn
   - matplotlib
   - numpy
   - statsmodels
   - pmdarima
-  - pytorch
-  - keras
-  - alpha_vantage
+  - arch-py
   - pip
   - pip:
     - influxdb-client
