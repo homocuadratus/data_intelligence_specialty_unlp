@@ -1,4 +1,4 @@
-# Data intelligence specialization - Final work
+# UNLP - Data intelligence Specialization - Final work
 
 ## Objective
 
