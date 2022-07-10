@@ -2,8 +2,6 @@
 
 ## Objective
 
-To learn how to use Python's statsmodel, pmdarima and fbprophet Packages to analyze and forecast time series. 
-
 ## How to run the notebooks
 
 Please, select a folder of your interest and download this repository to it. Remember that Anaconda python distribution should be installed prior to the execution of any content. To install it, please follow the instructions here:
