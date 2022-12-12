@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "data-intelligence-specialty-unlp"
+version = "0.1.0"
+description = "Script to forecast Etherum log retunrs using an ARMA-GARCH model"
+authors = ["Alejo Hernandez <alejo.hernandez.ds@gmail.com>"]
+readme = "README.md"
+packages = [{include = "data_intelligence_specialty_unlp"}]
+
+[tool.poetry.dependencies]
+python = "3.9.13"
+ipykernel = "^6.19.2"
+jupyterlab = "^3.5.1"
+pandas = "^1.5.2"
+scikit-learn = "^1.2.0"
+matplotlib = "^3.6.2"
+numpy = "^1.23.5"
+statsmodels = "^0.13.5"
+pmdarima = "^2.0.2"
+arch = "^5.3.1"
+influxdb-client = "^1.35.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.19.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
